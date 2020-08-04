@@ -1,0 +1,11 @@
+{
+  "name": "hugheslwctest-web-app",
+  "description": "hughesLWCTest Web App",
+  "keywords": [
+    "app-cloud"
+  ],
+  "repository": "https://github.com/devangLWC/hughesLWCTest",
+  "addons": [
+    "heroku-postgresql"
+  ]
+}
